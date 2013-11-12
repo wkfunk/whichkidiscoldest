@@ -38,7 +38,7 @@
       }
     </script>
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <title>which kid is colder?</title>
+    <title>which kid is coldest?</title>
   </head>
   <body onload="init();">
     <div class="container text-center">
