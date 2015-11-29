@@ -10,7 +10,7 @@
     $temp_f = $parsed_json->{'current_observation'}->{'temp_f'};
     return Array((float)($temp_f), $url);
   }
-  $maggie = getTemp("Nashville","TN");
+  $maggie = getTemp("Carrboro","NC");
   $keith = getTemp("Madison","WI");
   $ellie = getTemp("Needham","MA");
 
